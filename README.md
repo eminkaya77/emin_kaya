@@ -1,1 +1,1 @@
-# emin_kaya
+# evcil hayvan otomasyonu
